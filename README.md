@@ -1,2 +1,2 @@
 # Computer-Science-Engineering-Resources
-Your go-to repository for essential PDF resources in Computer Science Engineering, featuring textbooks and study materials to support your learning journey.
+Explore a curated collection of PDF resources in Computer Science Engineering, including textbooks and study materials. Dive into essential content that supports every aspect of your learning and research journey. Start exploring and enhancing your understanding today!
